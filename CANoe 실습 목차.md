@@ -4,7 +4,7 @@
 ### 	1.	Vehicle Network Fundamentals → 차량 네트워크 기초
 ---
 
-<strong>(1~5) 차량 통신 시스템 개요</strong></span>
+<strong>(1~5) 차량 통신 시스템 개요</strong>
 
 자동차 ECU 네트워크 구조와 버스 통신의 주요·확장 기능을 이해하고, 차량 SW 설계 표준과 기능 도메인별 네트워크 특성을 학습합니다.
 
@@ -38,7 +38,7 @@
 
 CAN 프로토콜의 주요 기능들을 이해하고, CAN FD와 CAN프로토콜의 차이점을 알아보고 CAN FD의 장점들을 확인합니다.
 
-###### (1~8) CAN Protocol
+<strong>(1~8) CAN Protocol</strong>
 
 1.	CAN Protocol Introduction
 
@@ -82,7 +82,7 @@ CAN 프로토콜의 주요 기능들을 이해하고, CAN FD와 CAN프로토콜�
 
 네트워크 디스크립션 파일의 개념을 이해하고, CAN Database를 직접 작성해 CANoe에서 활용합니다.
 
-###### (1~2) CAN Database 생성
+<strong>(1~2) CAN Database 생성</strong>
 
 1.	Introduction and Definitions
 
@@ -104,7 +104,7 @@ CAN 프로토콜의 주요 기능들을 이해하고, CAN FD와 CAN프로토콜�
 
 CANoe 기본 환경 설정과 실시간 데이터 계측, 분석·전송·로깅 기능을 이해하고 활용 방법을 학습합니다.
 
-###### (1~2) CANoe Setup
+<strong>(1~2) CANoe Setup </strong>
 
 1.	Hardware Interface and Configuration
 
@@ -114,25 +114,25 @@ CANoe 기본 환경 설정과 실시간 데이터 계측, 분석·전송·로깅
 
 → CANoe 메인 윈도우 구성
 
-###### (3. CANoe 통한 CAN 프레임 분석)
+<strong>(3. CANoe 통한 CAN 프레임 분석) </strong>
 
 3.	Analysis Windows
 
 → 데이터 분석 창 활용
 
-###### (4. 시그널 분석)
+<strong>(4. 시그널 분석)</strong>
 
 4.	System Variables
 
 → 시스템 변수 활용
 
-(5. CANoe 통한 CAN 프레임 분석)
+<strong>(5. CANoe 통한 CAN 프레임 분석)</strong>
 
 5.	Filter
 
 → 데이터 필터링 기능
 
-###### (6~8 CAN data 로깅)
+<strong>(6~8 CAN data 로깅)</strong>
 
 6.	Data Logging
 
@@ -146,13 +146,13 @@ CANoe 기본 환경 설정과 실시간 데이터 계측, 분석·전송·로깅
 
 → 오프라인 분석 모드
 
-(9. CAN 메시지 송신)
+<strong>(9. CAN 메시지 송신)</strong>
 
 9.	Sending
 
 → 메시지 전송 기능
 
-(10. 패널)
+<strong>(10. 패널)</strong>
 
 10.	Panels
 
@@ -170,7 +170,7 @@ CANoe 기본 환경 설정과 실시간 데이터 계측, 분석·전송·로깅
 
 CANoe 시뮬레이션 환경을 구성하고, 신호 제어와 CAPL 프로그래밍으로 데이터 처리·메시지 전송·분석 방법을 학습합니다.
 
-###### (1~2 CANoe Simulation 소개와 구성)
+<strong>(1~2 CANoe Simulation 소개와 구성)</strong>
 
 1.	Use Case
 
@@ -180,13 +180,13 @@ CANoe 시뮬레이션 환경을 구성하고, 신호 제어와 CAPL 프로그래
 
 → CANoe 인터랙션 레이어 기반 시뮬레이션
 
-###### (3 시그널 분석)
+<strong>(3 시그널 분석)</strong>
 
 3.	Signal Access
 
 → 신호 접근 및 제어 방법
 
-###### (4~10) CAPL 
+<strong>(4~10) CAPL</strong> 
 
 4.	CAPL Getting Started
 

@@ -6,15 +6,24 @@
 
 자동차 ECU 네트워크 구조와 버스 통신의 주요·확장 기능을 이해하고, 차량 SW 설계 표준과 기능 도메인별 네트워크 특성을 학습합니다.
 
-	1.	ECU networking in the Automotive Field
+1.	ECU networking in the Automotive Field
+
 → 자동차 분야에서의 ECU 네트워크 구성
-	2.	Primary Tasks in Bus Networking
+
+2.	Primary Tasks in Bus Networking
+
 → 차량 버스 네트워크의 주요 기본 기능
-	3.	Extended Tasks in Bus Networking
+
+3.	Extended Tasks in Bus Networking
+
 → 차량 버스 네트워크의 확장 기능
-	4.	Classification of Tasks in Bus Networking
+
+4.	Classification of Tasks in Bus Networking
+
 → 차량 버스 네트워크 기능의 분류
-	5.	Automotive Application Domains and Serial Bus Systems
+
+5.	Automotive Application Domains and Serial Bus Systems
+
 → 자동차 기능별 도메인과 직렬 버스 시스템
 
 
